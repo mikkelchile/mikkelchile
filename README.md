@@ -66,7 +66,6 @@ Our goal is to develop cleaner and more environmentally friendly methodologies f
   <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
 </p>
 
----
 ## ✦ Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <p align="left">
