@@ -1,4 +1,4 @@
-# Hi, I'm Miguel 👋
+# Hi, I'm Mikkel Farías 👋
 
 ### Mining Engineering | Hydrometallurgy | Lithium Extraction
 
