@@ -6,7 +6,7 @@ Mining Engineering student at **Pontificia Universidad Católica de Chile**, cur
 
 ---
 
-## ✦ Current focus
+### ✦ Current focus
 
 🌿 Lithium extraction from spodumene
 ⚗️ Acid leaching and hydrometallurgical processing
@@ -16,14 +16,14 @@ Mining Engineering student at **Pontificia Universidad Católica de Chile**, cur
 
 ---
 
-## ✦ Technical interests
+### ✦ Technical interests
 
 `Hydrometallurgy` · `Mineral Processing` · `Lithium` · `Critical Minerals`
 `Geomechanics` · `Mine Planning` · `Technical Writing`
 
 ---
 
-## ✦ Selected projects
+### ✦ Selected projects
 
 🧪 **MSc Thesis** — lithium extraction from spodumene concentrates
 🪨 **Luksic Rock Project** — geomechanical characterization and stability analysis
@@ -32,21 +32,21 @@ Mining Engineering student at **Pontificia Universidad Católica de Chile**, cur
 
 ---
 
-## ✦ Tools
+### ✦ Tools
 
 `LaTeX` · `GitHub` · `GitHub Actions` · `Python` · `Excel` · `Leapfrog Geo` · `Whittle`
 
 
 ---
 
-## ✦ Team Chalcopyrite
+### ✦ Team Chalcopyrite
 
 ⚗️ Exploring electrochemical and hydrometallurgical approaches for chalcopyrite processing.  
 🔗 [Explore our work](https://linktr.ee/ChalcopyriteTeam)
 
 ---
 
-## ✦ Connect with me
+### ✦ Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Farías-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguelfariasuc)
 
