@@ -50,7 +50,7 @@ Experience in student leadership, intercultural activities, event coordination, 
 
 ## 🧰 Tools
 
-LaTeX · GitHub · GitHub Actions · Python · Excel · Leapfrog Geo · Whittle · LiDAR mapping · Hydrometallurgical laboratory testing
+LaTeX · GitHub · Python · Excel · Leapfrog Geo · Whittle · LiDAR mapping · Hydrometallurgical laboratory testing
 
 ---
 
