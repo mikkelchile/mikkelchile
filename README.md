@@ -22,8 +22,6 @@
 - 🪨 Interested in rock mechanics, mineral processing, and sustainable mining  
 - 💻 Building a technology-driven engineering mindset through Python, optimization modeling with Gurobi, LaTeX-based documentation, GitHub workflows, LiDAR scanning, data analysis, and technical projects focused on modeling and solving real engineering problems.
 
-<br clear="right">
-
 ---
 
 
