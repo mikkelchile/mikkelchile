@@ -16,8 +16,7 @@
   MSc. Student
   <img src="/matraz.gif" height="58px" align="center">
 </h1>
-<br>
----
+
 - 🎓 Mining Engineering student at Pontificia Universidad Católica de Chile  
 - ⛏️ MSc. Student in Engineering Sciences — Mining Area  
 - 🧪 Currently working on lithium, spodumene, and hydrometallurgical processes  
