@@ -2,7 +2,7 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=EA7C5B&size=18&height=30&repeat=false&lines=Mining+Engineering+|+MSc.+Student)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=C9EA5B&size=18&height=28&repeat=false&pause=550&lines=%E2%A0%80;Hobbyist+Developer+Mindset+++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=C9EA5B&size=18&height=28&repeat=false&pause=400&lines=%E2%A0%80;Hobbyist+Developer+Mindset+++++)](https://git.io/typing-svg)
 
 
 <a href="#"><img width="28%" height="auto" align="right" src="/mikki.png" /></a>
