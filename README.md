@@ -49,3 +49,9 @@ Mining Engineering student at **Pontificia Universidad Católica de Chile**, cur
 
 [![GitHub](https://img.shields.io/badge/GitHub-mikkelchile-black?style=for-the-badge&logo=github)](https://github.com/mikkelchile)
 
+---
+
+## ✦ Team Chalcopyrite
+
+⚗️ Explore what we are developing as **Team Chalcopyrite**:  
+🔗 [linktr.ee/ChalcopyriteTeam](https://linktr.ee/ChalcopyriteTeam)
