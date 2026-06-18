@@ -6,11 +6,10 @@
 
 
 <a href="#"><img width="32%" height="auto" align="right" src="/mikki.png" /></a>
-<br clear="right"/>
 
 ## Hi there, I'm Mikkel Farias <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px">
 
-> **Engineering curiosity, mining mindset, and a little code along the way.** ⛏️💻
+ **Engineering curiosity, mining mindset, and a little code along the way.** ⛏️💻
 
 <h1>
   Mining Engineer in progress<br>
