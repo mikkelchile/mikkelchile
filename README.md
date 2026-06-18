@@ -39,6 +39,7 @@ Our goal is to develop cleaner and more environmentally friendly methodologies f
 
 🔗 [Explore our work](https://linktr.ee/ChalcopyriteTeam)
 
+</p>
 ## ✦ Languages & Tools
 
 <p align="left">
