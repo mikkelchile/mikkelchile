@@ -7,7 +7,7 @@
 
 <a href="#"><img width="32%" height="auto" align="right" src="/mikki.png" /></a>
 
-## Hi there, I'm Mikkel Farias <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px">
+<## Hi there, I'm Mikkel Farias <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px">
 
  **Engineering curiosity, mining mindset, and a little code along the way.** ⛏️💻
 
