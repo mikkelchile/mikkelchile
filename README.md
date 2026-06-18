@@ -12,8 +12,8 @@
 > **Engineering curiosity, mining mindset, and a little code along the way.** ⛏️💻
 
 <h3>
-  Mining Engineer in progress<br>
-  MSc. Student&nbsp;<img src="/matraz.gif" height="58px">
+  <strong>Mining Engineer in progress</strong><br>
+  <strong>MSc. Student</strong>&nbsp;<img src="/matraz.gif" height="64px">
 </h3>
 
 - 🎓 Mining Engineering student at Pontificia Universidad Católica de Chile  
