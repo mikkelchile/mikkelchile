@@ -22,6 +22,45 @@
 - 🪨 Interested in rock mechanics, mineral processing, and sustainable mining  
 - 💻 Building a technology-driven engineering mindset through Python, optimization modeling with Gurobi, LaTeX-based documentation, GitHub workflows, LiDAR scanning, data analysis, and technical projects focused on modeling and solving real engineering problems.  
 
+
+
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+<h2>Hi there, I'm Mikkel Farias 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px">
+</h2>
+
+<blockquote>
+Engineering curiosity, mining mindset, and a little code along the way. ⛏️💻
+</blockquote>
+
+<h1>
+  Mining Engineer in progress<br>
+  MSc. Student&nbsp;<img src="/matraz.gif" height="58px">
+</h1>
+
+<ul>
+  <li>🎓 Mining Engineering student at Pontificia Universidad Católica de Chile</li>
+  <li>⛏️ MSc. Student in Engineering Sciences — Mining Area</li>
+  <li>🧪 Currently working on lithium, spodumene, and hydrometallurgical processes</li>
+  <li>🪨 Interested in rock mechanics, mineral processing, and sustainable mining</li>
+  <li>💻 Building a technology-driven engineering mindset through Python, optimization modeling with Gurobi, LaTeX-based documentation, GitHub workflows, LiDAR scanning, data analysis, and technical projects focused on modeling and solving real engineering problems.</li>
+</ul>
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+<img src="/mikki.png" width="260px">
+
+</td>
+</tr>
+</table>
+
+
+
 ### ✦ Current focus
 
 🌿 Lithium extraction from spodumene
