@@ -1,4 +1,4 @@
-# Hi, I'm Mikkel Farías 👋⛏️
+# Hi, I'm Miguel “Mikkel” Farías 👋⛏️
 
 ### Mining Engineering · Hydrometallurgy · Lithium Extraction
 
@@ -41,8 +41,8 @@ Mining Engineering student at **Pontificia Universidad Católica de Chile**, cur
 
 ## ✦ Team Chalcopyrite
 
-⚗️ Explore what we are developing as **Team Chalcopyrite**:  
-🔗 [linktr.ee/ChalcopyriteTeam](https://linktr.ee/ChalcopyriteTeam)
+⚗️ Exploring electrochemical and hydrometallurgical approaches for chalcopyrite processing.  
+🔗 [Explore our work](https://linktr.ee/ChalcopyriteTeam)
 
 ---
 
