@@ -13,8 +13,7 @@
 
 <h1>
   Mining Engineer in progress<br>
-  MSc. Student
-  <img src="/matraz.gif" height="58px" align="center">
+  MSc. Student&nbsp;<img src="/matraz.gif" height="58px">
 </h1>
 
 - 🎓 Mining Engineering student at Pontificia Universidad Católica de Chile  
