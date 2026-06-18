@@ -31,7 +31,6 @@
 🔋 Critical minerals and sustainable extraction
 📚 LaTeX, GitHub and reproducible academic workflows
 
----
 ### ✦ Team Chalcopyrite
 
 ⚗️ Member of **Team Chalcopyrite**, a research group from the **Department of Mining Engineering at Pontificia Universidad Católica de Chile**, focused on electrochemical and hydrometallurgical approaches for critical mineral processing.
@@ -39,8 +38,6 @@
 Our goal is to develop cleaner and more environmentally friendly methodologies for mineral extraction and concentration.
 
 🔗 [Explore our work](https://linktr.ee/ChalcopyriteTeam)
-
----
 
 ## ✦ Languages & Tools
 
