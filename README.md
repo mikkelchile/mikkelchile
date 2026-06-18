@@ -39,3 +39,13 @@ Mining Engineering student at **Pontificia Universidad Católica de Chile**, cur
 ---
 *Engineering, minerals and a little bit of organized chaos.* ✨
 
+
+
+---
+
+## ✦ Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Farías-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguelfariasuc)
+
+[![GitHub](https://img.shields.io/badge/GitHub-mikkelchile-black?style=for-the-badge&logo=github)](https://github.com/mikkelchile)
+
