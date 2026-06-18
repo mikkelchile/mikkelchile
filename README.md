@@ -78,10 +78,6 @@ Our goal is to develop cleaner and more environmentally friendly methodologies f
   <a href="https://linktr.ee/ChalcopyriteTeam" target="_blank">
     <img src="https://img.shields.io/badge/Team%20Chalcopyrite-Explore%20our%20work-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Team Chalcopyrite"/>
   </a>
-
-  <a href="mailto:mefarias2@uc.cl" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-mefarias2%40uc.cl-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 </p>
 
 ---
