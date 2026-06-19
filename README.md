@@ -12,8 +12,8 @@
 ### Mining Engineer & MSc. Student in progress &nbsp;<img src="/matraz.gif" height="64px" align="absmiddle">
 
 
-- 🎓 Mining Engineering student at [Pontificia Universidad Católica de Chile]{https://www.uc.cl/en}
-- ⛏️ MSc. Student in Engineering Sciences — [Mining Area]{https://www.ing.uc.cl/mineria/}
+- 🎓 Mining Engineering student at [Pontificia Universidad Católica de Chile](https://www.uc.cl/en)
+- ⛏️ MSc. Student in Engineering Sciences — [Mining Area](https://www.ing.uc.cl/mineria/)
 - 🧪 Currently working on lithium, spodumene, and hydrometallurgical processes  
 - 🪨 Interested in rock mechanics, mineral processing, and sustainable mining  
 - 💻 Building a technology-driven engineering mindset through Python, optimization modeling with Gurobi, LaTeX-based documentation, GitHub workflows, LiDAR scanning, data analysis, and technical projects focused on modeling and solving real engineering problems.
