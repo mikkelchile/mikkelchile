@@ -11,7 +11,7 @@
 > **Engineering curiosity, mining mindset, and a little code along the way.** ⛏️💻
 ### Mining Engineer & MSc. Student in progress &nbsp;<img src="/matraz.gif" height="64px" align="absmiddle">
 
-
+- 🎓 Licentiate graduate from College of Natural Sciences and Mathematics at Pontificia Universidad Católica de Chile, with a Major in Mining Engineering and a Minor in Mining Management and Operations.
 - 🎓 Mining Engineering student at [Pontificia Universidad Católica de Chile](https://www.uc.cl/en)
 - ⛏️ MSc. Student in Engineering Sciences — [Mining Area](https://www.ing.uc.cl/mineria/)
 - 🧪 Currently working on lithium, spodumene, and hydrometallurgical processes  
